@@ -4,13 +4,27 @@
     "white_list": [
         "com.shuiyuba.tv",
         "com.dangbei.tvlauncher",
-        "com.live.zd"
+        "com.live.zd",
+        "alook.browser.dlna",
+        "com.lizongying.mytv"
     ],
     "update": [
         {
             "packageName": "com.live.zd",
             "versionCode": -1,
             "download_url": "http://www.shuiyuba.com/fucktv/tv.apk",
+            "md5": ""
+        },
+        {
+            "packageName": "alook.browser.dlna",
+            "versionCode": -1,
+            "download_url": "http://www.shuiyuba.com/tv/AlookDLNA.apk",
+            "md5": ""
+        },
+        {
+            "packageName": "com.lizongying.mytv",
+            "versionCode": -1,
+            "download_url": "http://www.shuiyuba.com/tv/my-tv-v1.5.4.apk",
             "md5": ""
         }
     ],
