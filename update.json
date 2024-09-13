@@ -1,9 +1,10 @@
 {
     "checkTime": 240,
-    "openApp": "com.shuiyuba.fucktv",
+    "openApp": "com.live.zd",
     "white_list": [
         "com.shuiyuba.tv",
         "com.dangbei.tvlauncher",
+        "com.live.zd",
         "alook.browser.dlna"
     ],
     "update": [
